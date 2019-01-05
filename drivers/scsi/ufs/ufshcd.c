@@ -9228,6 +9228,7 @@ out:
 }
 EXPORT_SYMBOL(ufshcd_runtime_suspend);
 
+
 /**
  * ufshcd_runtime_resume - runtime resume routine
  * @hba: per adapter instance
